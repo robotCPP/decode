@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1450954438 source:/home/breakpoint/Documents/ACMCode/decode/main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<string.h>
+
